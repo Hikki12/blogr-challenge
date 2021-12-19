@@ -2,6 +2,9 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
+## Live Demo
+https://hikki12.github.io/blogr-challenge/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
